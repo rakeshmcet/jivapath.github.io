@@ -29,7 +29,7 @@ twitter_username: rkvmTweets
 github_username:  rakeshmcet
 
 # Build settings
-theme: jeykyll-theme-primer
+theme: jekyll-theme-primer
 plugins:
   - jekyll-feed
 
